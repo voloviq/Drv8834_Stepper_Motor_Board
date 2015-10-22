@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GOLDPIN_10_2_54MM_0DEG
+D Goldpin 10pins 2.54mm 0deg
+K Goldpin
+F Goldpins/Components_Documentation/Goldpin_2_54mm.pdf
+$ENDCMP
+#
+$CMP GOLDPIN_10_2_54MM_90DEG
+D Goldpin 10pins 2.54mm 90deg
+K Goldpin
+F Goldpins/Components_Documentation/Goldpin_2_54mm.pdf
+$ENDCMP
+#
+$CMP GOLDPIN_18_2_54MM
+D Goldpin18 pins 2.54mm
+K Goldpin
+F Goldpins/Components_Documentation/Goldpin_2_54mm.pdf
+$ENDCMP
+#
+$CMP GOLDPIN_2_2_54MM
+D Goldpin 2pins 2.54mm
+K Goldpin
+F Goldpins/Components_Documentation/Goldpin_2_54mm.pdf
+$ENDCMP
+#
+$CMP GOLDPIN_2_2_54MM_90DEG
+D Goldpin 2pins 2.54mm 90deg
+K Goldpin
+F Goldpins/Components_Documentation/Goldpin_2_54mm.pdf
+$ENDCMP
+#
+$CMP GOLDPIN_3_2_54MM
+D Goldpin 3 pins 2.54mm
+K Goldpin
+F Goldpins/Components_Documentation/Goldpin_2_54mm.pdf
+$ENDCMP
+#
+$CMP GOLDPIN_6_2_54MM
+D Goldpin 6 pins 2.54mm
+K Goldpin
+F Goldpins/Components_Documentation/Goldpin_2_54mm.pdf
+$ENDCMP
+#
+$CMP GOLDPIN_8_2_54MM
+D Goldpin 8 pins 2.54mm
+K Goldpin
+F Goldpins/Components_Documentation/Goldpin_2_54mm.pdf
+$ENDCMP
+#
+#End Doc Library

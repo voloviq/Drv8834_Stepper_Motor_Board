@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8834
+D Dual-Bridge Stepper or DX Motor Driver
+K StepperMotor Driver
+F H_Bridges_Drivers/Components_Documentation/Drv8834.pdf
+$ENDCMP
+#
+$CMP L6203
+D DMOS FULL BRIDGE DRIVER
+K FULL BRIDGE
+F H_Bridges_Drivers/Components_Documentation/L6201(2_3).pdf
+$ENDCMP
+#
+#End Doc Library

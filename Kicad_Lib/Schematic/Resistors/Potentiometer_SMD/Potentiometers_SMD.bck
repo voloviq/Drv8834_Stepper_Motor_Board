@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3214X-1-202E
+D Potentiometer SMD Bourns 2k multirotate
+K Potentiometer SMD
+F Resistors/Potentiometer_SMD/Components_Documentation/Mounting_Potentiometer_Multirotate_Bourns_3214W.pdf
+$ENDCMP
+#
+#End Doc Library

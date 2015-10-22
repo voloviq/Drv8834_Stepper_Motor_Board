@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100nF_0603
+D 100nF / 50V SMD Capacitor 
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+$CMP 100pF_0603
+D 100pF / 50V SMD Capacitor
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+$CMP 10nF_0603
+D 10nF / 50V SMD Capacitor 
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+$CMP 1nF_0603
+D 1nF / 50V SMD Capacitor 
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+$CMP 22pF_0603
+D 22pF / 50V SMD Capacitor
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+$CMP 4_7nF_0603
+D 1nF / 50V SMD Capacitor 
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+$CMP 4_7uF_0603
+D 4_7uF / 50V SMD Capacitor 
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+#End Doc Library

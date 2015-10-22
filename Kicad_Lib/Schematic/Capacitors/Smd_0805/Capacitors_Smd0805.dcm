@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100nF_0805
+D SMD Capacitor 100nF / 16V / Y5V / +/- 20% / temp:-30C;+85C
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+$CMP 10nF_0805
+D SMD Capacitor 10nF / 16V / Y5V / +/- 20% / temp:-30C;+85C
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+$CMP 10uF_0805
+D SMD Capacitor 10nF / 16V / Y5V / +/- 20% / temp:-30C;+85C
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+$CMP 1uF_Y5V_0805
+D SMD Capacitor 1uF / 16V / Y5V / +/- 20% / temp:-30C;+85C
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+$CMP 27pF_0805
+D SMD Capacitor 27pF / 16V / Y5V / +/- 20% / temp:-30C;+85C
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+$CMP 2_2uF_0805
+D SMD Capacitor 2.2uF / 16V / Y5V / +/- 20% / temp:-30C;+85C
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+$CMP 4_7uF_0805
+D SMD Capacitor 4.7uF / 16V / Y5V / +/- 20% / temp:-30C;+85C
+K SMD Capacitor
+F Smd_0603/Components_Documentation/KEM_C1005_Y5V_SMD.pdf
+$ENDCMP
+#
+#End Doc Library

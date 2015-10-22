@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0R1_1206
+D SMD Resistor 0.1Ohm 0.25W
+K SMD Resistor
+F Resistors/Smd_1206/Components_Documentation/Vishay_Resistors_SM1206.pdf
+$ENDCMP
+#
+$CMP 0R_1206
+D SMD Resistor 0Ohm 0.25W
+K SMD Resistor
+F Resistors/Smd_1206/Components_Documentation/Vishay_Resistors_SM1206.pdf
+$ENDCMP
+#
+$CMP 100k_1206
+D SMD Resistor 100kOhm 0.25W
+K SMD Resistor
+F Resistors/Smd_1206/Components_Documentation/Vishay_Resistors_SM1206.pdf
+$ENDCMP
+#
+$CMP 130R_1206
+D SMD Resistor 130Ohm 0.25W
+K SMD Resistor
+F Resistors/Smd_1206/Components_Documentation/Vishay_Resistors_SM1206.pdf
+$ENDCMP
+#
+$CMP 3k9_1206
+D SMD Resistor 3.9kOhm 0.25W
+K SMD Resistor
+F Resistors/Smd_1206/Components_Documentation/Vishay_Resistors_SM1206.pdf
+$ENDCMP
+#
+$CMP 3k9_1206HP
+D SMD Resistor 3.9kOhm 0.25W High Precision
+K SMD Resistor
+F Resistors/Smd_1206/Components_Documentation/Royalohm_High_Precision_Resistors_SM1206.pdf
+$ENDCMP
+#
+$CMP 4x470R_1206
+D SMD Resistor 4x470Ohm 0.63W - Resistor Ladder
+K SMD Resistor
+F Resistors/Smd_1206/Components_Documentation/Yageo_Matrix_Resistors_4xR_YC164-JR-07470RL.pdf
+$ENDCMP
+#
+$CMP 56R_1206
+D SMD Resistor 56Ohm 0.25W
+K SMD Resistor
+F Resistors/Smd_1206/Components_Documentation/Vishay_Resistors_SM1206.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,63 @@
+PCBNEW-LibModule-V1  śro, 4 wrz 2013, 18:11:33
+# encoding utf-8
+Units mm
+$INDEX
+3214W-1-202E_V
+3214X-1-202E_V
+$EndINDEX
+$MODULE 3214W-1-202E_V
+Po 0 0 0 15 52275882 00000000 ~~
+Li 3214W-1-202E_V
+Cd Potentiometer SMD 2k Multirotate Bourns Vertical
+Kw Potentiometer SMD
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.81 1.27 1.27 0 0.254 N V 21 N "3214W-1-202E"
+T1 0 -6.35 1.27 1.27 0 0.254 N I 21 N "VAL**"
+$EndMODULE 3214W-1-202E_V
+$MODULE 3214X-1-202E_V
+Po 0 0 0 15 52275B8C 00000000 ~~
+Li 3214X-1-202E_V
+Cd Potentiometer SMD 2k Multirotate Bourns Vertical
+Kw Potentiometer SMD
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.81 1.27 1.27 0 0.254 N V 21 N "3214X-1-202E"
+T1 0 -6.35 1.27 1.27 0 0.254 N I 21 N "VAL**"
+DS 1.95 -0.75 1.25 -0.05 0.305 21
+DC 1.6 -0.4 2 0 0.305 21
+DS 2.55 -1.75 -2.55 -1.75 0.305 21
+DS -2.55 -1.75 -2.55 1.75 0.305 21
+DS -2.55 1.75 2.55 1.75 0.305 21
+DS 2.55 1.75 2.55 -1.75 0.305 21
+$PAD
+Sh "1" R 1.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.25 1.75
+$EndPAD
+$PAD
+Sh "2" R 1.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.75
+$EndPAD
+$PAD
+Sh "3" R 1.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.25 1.75
+$EndPAD
+$SHAPE3D
+Na "Resistors/Potentiometers_Smd/3D_View/3214X-1-202E_V.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE 3214X-1-202E_V
+$EndLIBRARY

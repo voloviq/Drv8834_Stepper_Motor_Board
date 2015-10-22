@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name Capacitors_Smd_0603)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/Capacitors/Smd_0603/Capacitors_Smd_0603.pretty")(options "")(descr ""))
+  (lib (name Capacitors_Smd_0805)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/Capacitors/Smd_0805/Capacitors_Smd_0805.pretty")(options "")(descr ""))
+  (lib (name Discrete_Goldpin)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/Goldpin/Discrete_Goldpin/Discrete_Goldpin.pretty")(options "")(descr ""))
+  (lib (name H_Bridges_Drivers)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/H_Bridges_Drivers/H_Bridges_Drivers.pretty")(options "")(descr ""))
+  (lib (name Resistor_Smd_1206)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/Resistors/Smd_1206/Resistor_Smd_1206.pretty")(options "")(descr ""))
+  (lib (name Resistor_Smd_0603)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/Resistors/Smd_0603/Resistor_Smd_0603.pretty")(options "")(descr ""))
+  (lib (name Potentiometers_Smd)(type KiCad)(uri "$(KIPRJMOD)/Kicad_Lib/Pcb/Resistors/Potentiometers_Smd/Potentiometers_Smd.pretty")(options "")(descr ""))
+)

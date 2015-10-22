@@ -1,0 +1,163 @@
+EESchema-DOCLIB  Version 2.0  Date: 2012-12-13 16:53:01
+#
+$CMP +0-30[V]
+D 0-30V Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP -12V
+D 12V Negative Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP -15V
+D 15V Negative Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP -3V3
+D 3.3V Negative Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP -5V
+D 5V Negative Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP -9V
+D 9V Negative Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP 12V
+D 12V Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP 15V
+D 15V Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP 18V/36V
+D 18V/36V Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP 1V8
+D 1.8V Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP 24V
+D 24V Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP 2V5
+D 2.5V Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP 2V8
+D 2.8V Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP 3V3
+D 3.3V Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP 48V
+D 48V Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP 5V
+D 5V Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP 9V
+D 9V Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP AGND
+D Analog Common Mass Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP DGND
+D Digital Common Mass Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP GND
+D Common Ground Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP GNDA
+D Analog General Mass Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP GNDPWR
+D Ground Alternate Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP SHDN
+D Shieled Ground Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP VAA
+D Analog Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP VBAT
+D VBAT Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP VCC
+D Collector Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP VCM
+D Positive Voltage Common Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP VDD
+D Drain Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP VEE
+D Emiter Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP VMM
+D Positive Memory Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP VPP
+D Positive Power Supply
+K Power Supply
+$ENDCMP
+#
+$CMP VSS
+D Source Power Supply
+K Power Supply
+$ENDCMP
+#
+#End Doc Library

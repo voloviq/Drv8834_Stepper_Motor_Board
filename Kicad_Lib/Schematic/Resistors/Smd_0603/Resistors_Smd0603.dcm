@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0R_0603
+D SMD Resistor 0Ohm 0.25W
+K SMD Resistor
+F Resistors/Smd_0603/Components_Documentation/Vishay_Resistors_SM0603.pdf
+$ENDCMP
+#
+$CMP 100R_0603
+D SMD Resistor 100Ohm 0.25W
+K SMD Resistor
+F Resistors/Smd_0603/Components_Documentation/Vishay_Resistors_SM0603.pdf
+$ENDCMP
+#
+$CMP 10k_0603
+D SMD Resistor 10kOhm 0.25W
+K SMD Resistor
+F Resistors/Smd_0603/Components_Documentation/Vishay_Resistors_SM0603.pdf
+$ENDCMP
+#
+$CMP 1R_0603
+D SMD Resistor 1Ohm 0.25W
+K SMD Resistor
+F Resistors/Smd_0603/Components_Documentation/Vishay_Resistors_SM0603.pdf
+$ENDCMP
+#
+$CMP 1k5_0603
+D SMD Resistor 1k5Ohm 0.25W
+K SMD Resistor
+F Resistors/Smd_0603/Components_Documentation/Vishay_Resistors_SM0603.pdf
+$ENDCMP
+#
+$CMP 1k_0603
+D SMD Resistor 1kOhm 0.25W
+K SMD Resistor
+F Resistors/Smd_0603/Components_Documentation/Vishay_Resistors_SM0603.pdf
+$ENDCMP
+#
+$CMP 2M_0603
+D SMD Resistor 2MOhm 0.25W
+K SMD Resistor
+F Resistors/Smd_0603/Components_Documentation/Vishay_Resistors_SM0603.pdf
+$ENDCMP
+#
+$CMP 2k2_0603
+D SMD Resistor 2k2Ohm 0.25W
+K SMD Resistor
+F Resistors/Smd_0603/Components_Documentation/Vishay_Resistors_SM0603.pdf
+$ENDCMP
+#
+$CMP 33k_0603
+D SMD Resistor 33kOhm 0.25W
+K SMD Resistor
+F Resistors/Smd_0603/Components_Documentation/Vishay_Resistors_SM0603.pdf
+$ENDCMP
+#
+$CMP 470R_0603
+D SMD Resistor 470Ohm 0.25W
+K SMD Resistor
+F Resistors/Smd_0603/Components_Documentation/Vishay_Resistors_SM0603.pdf
+$ENDCMP
+#
+$CMP 47R_0603
+D SMD Resistor 47Ohm 0.25W
+K SMD Resistor
+F Resistors/Smd_0603/Components_Documentation/Vishay_Resistors_SM0603.pdf
+$ENDCMP
+#
+$CMP 47k_0603
+D SMD Resistor 47kOhm 0.25W
+K SMD Resistor
+F Resistors/Smd_0603/Components_Documentation/Vishay_Resistors_SM0603.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,163 @@
+Cmp-Mod V01 Created by PcbNew   date = czw, 22 paź 2015, 20:59:41
+
+BeginCmp
+TimeStamp = 5627F091
+Path = /5627EB66
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Smd_0805:10uF_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F097
+Path = /5627EBC5
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_Smd_0603:100nF_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F09D
+Path = /5627EC1F
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_Smd_0603:100nF_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0A3
+Path = /5627EC54
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Smd_0805:10uF_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0A9
+Path = /5627EF24
+Reference = C5;
+ValeurCmp = 0.01uF;
+IdModule  = Capacitors_Smd_0603:1nF_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0AF
+Path = /5627ECB5
+Reference = C6;
+ValeurCmp = 4_7uF;
+IdModule  = Capacitors_Smd_0603:4_7uF_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0BB
+Path = /5627E482
+Reference = P1;
+ValeurCmp = Connector1;
+IdModule  = Discrete_Goldpin:Goldpin_8_2_54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0CE
+Path = /5627D3AB
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Potentiometers_Smd:3364X-1-103E;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0D4
+Path = /5627ED9C
+Reference = R2;
+ValeurCmp = 0R1;
+IdModule  = Resistor_Smd_1206:0R1_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0DA
+Path = /5627EDE1
+Reference = R3;
+ValeurCmp = 0R1;
+IdModule  = Resistor_Smd_1206:0R1_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0E0
+Path = /5627EE3E
+Reference = R4;
+ValeurCmp = 1k5;
+IdModule  = Resistor_Smd_0603:1k5_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0E6
+Path = /5627EEDF
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistor_Smd_0603:10k_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0EC
+Path = /5627E93F
+Reference = R6;
+ValeurCmp = 47k;
+IdModule  = Resistor_Smd_0603:47k_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0F2
+Path = /5627ED4F
+Reference = R7;
+ValeurCmp = 47k;
+IdModule  = Resistor_Smd_0603:47k_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0F8
+Path = /5627ED14
+Reference = R8;
+ValeurCmp = 47k;
+IdModule  = Resistor_Smd_0603:47k_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0FE
+Path = /5627E874
+Reference = R9;
+ValeurCmp = 1R;
+IdModule  = Resistor_Smd_0603:1R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F104
+Path = /5627E614
+Reference = Rx1;
+ValeurCmp = SMT jumper;
+IdModule  = Resistor_Smd_0603:0R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F10A
+Path = /5627E593
+Reference = Ry1;
+ValeurCmp = SMT jumper;
+IdModule  = Resistor_Smd_0603:0R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F12F
+Path = /5627D35F
+Reference = U1;
+ValeurCmp = DRV8834;
+IdModule  = H_Bridges_Drivers:DRV8834_QFN24;
+EndCmp
+
+BeginCmp
+TimeStamp = 5627F0C7
+Path = /5627E52A
+Reference = P2;
+ValeurCmp = Connector2;
+IdModule  = Discrete_Goldpin:Goldpin_8_2_54mm;
+EndCmp
+
+EndListe
